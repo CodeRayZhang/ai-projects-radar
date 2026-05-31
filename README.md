@@ -51,4 +51,4 @@ anthropics/skills 以 144K Star 持续霸榜，但真正的看点在新锐区：
 | [05-26](./2026-05-26.md) | FigMirror · ai-memory · agentic-ai-course |
 | [05-25](./2026-05-25.md) | ECC · hermes-agent · claude-mem · awesome-claude-skills |
 
-<p align="right"><a href="./"><b>→ 查看全部存档</b></a></p>
+<p align="right"><a href="https://github.com/CodeRayZhang/ai-projects-radar"><b>→ 查看全部存档</b></a></p>
