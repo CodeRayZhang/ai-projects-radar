@@ -50,5 +50,9 @@ anthropics/skills 以 144K Star 持续霸榜，但真正的看点在新锐区：
 | [05-27](./2026-05-27.md) | hermes-agent · claude-mem · nanobot · openclaude |
 | [05-26](./2026-05-26.md) | FigMirror · ai-memory · agentic-ai-course |
 | [05-25](./2026-05-25.md) | ECC · hermes-agent · claude-mem · awesome-claude-skills |
+| [05-24](./2026-05-24.md) | html-anything · zerolang · Agent-Learning-Hub |
+| [05-22](./2026-05-22.md) | codegraph · karpathy-skills · smallcode · forge |
+| [05-21](./2026-05-21.md) | openhuman · karpathy-skills · agentmemory |
+| [05-16](./2026-05-16.md) | superpowers · hermes-agent · gemini-cli · firecrawl |
 
 <p align="right"><a href="https://github.com/CodeRayZhang/ai-projects-radar"><b>→ 查看全部存档</b></a></p>
