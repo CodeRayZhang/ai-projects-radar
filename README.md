@@ -16,7 +16,7 @@
 
 anthropics/skills 以 144K Star 持续霸榜，但真正的看点在新锐区：**adhd** 让 Agent 学会多角度思考，**vibecode-pro-max-kit** 解决了 AI 的遗忘问题，**pmb** 把 Agent 记忆留在了本地。MCP 协议已成为 Agent 工具链的事实标准。
 
-<p align="right"><a href="./2026-05-31.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-05/2026-05-31.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
