@@ -45,7 +45,6 @@
 
 | 日期 | 本周亮点 |
 |------|----------|
-| [06-01](./2026-06/2026-06-01.md) | deer-flow 7万星 · 教程万星冲刺 · Agent 记忆新赛道 |
 | [05-31](./2026-05/2026-05-31.md) | Skills 生态爆发 · 记忆系统涌现 · MCP 成事实标准 |
 | [05-29](./2026-05/2026-05-29.md) | awesome-architecture · vibecode-pro-max-kit · agent-oss |
 | [05-27](./2026-05/2026-05-27.md) | hermes-agent · claude-mem · nanobot · openclaude |
