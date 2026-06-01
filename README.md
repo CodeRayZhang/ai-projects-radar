@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:30_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/projects-15_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/projects-16_篇-brightgreen" alt="count">
 </p>
 
 # 🚀 开源雷达
@@ -12,11 +12,11 @@
 
 ## 🔭 最近一期
 
-### [2026.05.31 — Agent Skills 生态大爆发](./2026-05/2026-05-31.md)
+### [2026.06.01 — 字节 deer-flow 7 万星，Agent 框架混战升级](./2026-06/2026-06-01.md)
 
-anthropics/skills 以 144K Star 持续霸榜，但真正的看点在新锐区：**adhd** 让 Agent 学会多角度思考，**vibecode-pro-max-kit** 解决了 AI 的遗忘问题，**pmb** 把 Agent 记忆留在了本地。MCP 协议已成为 Agent 工具链的事实标准。
+字节跳动开源的 deer-flow 以 7 万星领跑，TradingAgents 8.1 万星稳坐 AI+金融王座。本期最大信号：**Agent 框架不再是实验品，开始进入工程化落地阶段**——教程类项目批量冲刺万星，记忆层工具（memvid）成为新赛道。
 
-<p align="right"><a href="./2026-05/2026-05-31.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-01.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -45,6 +45,7 @@ anthropics/skills 以 144K Star 持续霸榜，但真正的看点在新锐区：
 
 | 日期 | 本周亮点 |
 |------|----------|
+| [06-01](./2026-06/2026-06-01.md) | deer-flow 7万星 · 教程万星冲刺 · Agent 记忆新赛道 |
 | [05-31](./2026-05/2026-05-31.md) | Skills 生态爆发 · 记忆系统涌现 · MCP 成事实标准 |
 | [05-29](./2026-05/2026-05-29.md) | awesome-architecture · vibecode-pro-max-kit · agent-oss |
 | [05-27](./2026-05/2026-05-27.md) | hermes-agent · claude-mem · nanobot · openclaude |
