@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:30_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/projects-16_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/projects-17_篇-brightgreen" alt="count">
 </p>
 
 # 🚀 开源雷达
@@ -12,11 +12,11 @@
 
 ## 🔭 最近一期
 
-### [2026.06.01 — 字节 deer-flow 7 万星，Agent 框架混战升级](./2026-06/2026-06-01.md)
+### [2026.06.02 — GitHub AI 热门项目 — 2026-06-02](./2026-06/2026-06-02.md)
 
-字节跳动开源的 deer-flow 以 7 万星领跑，TradingAgents 8.1 万星稳坐 AI+金融王座。本期最大信号：**Agent 框架不再是实验品，开始进入工程化落地阶段**——教程类项目批量冲刺万星，记忆层工具（memvid）成为新赛道。
+开源雷达 · 今日精选 10 个 AI 相关热门仓库，覆盖 Agent 工程、LLM 工具链、记忆系统与终端编码新范式。
 
-<p align="right"><a href="./2026-06/2026-06-01.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-02.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -45,6 +45,7 @@
 
 | 日期 | 本周亮点 |
 |------|----------|
+| [06-01](./2026-06/2026-06-01.md) | 字节 deer-flow 7 万星，Agent 框架混战升级 |
 | [05-31](./2026-05/2026-05-31.md) | Skills 生态爆发 · 记忆系统涌现 · MCP 成事实标准 |
 | [05-29](./2026-05/2026-05-29.md) | awesome-architecture · vibecode-pro-max-kit · agent-oss |
 | [05-27](./2026-05/2026-05-27.md) | hermes-agent · claude-mem · nanobot · openclaude |
