@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:30_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/projects-18_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/projects-19_篇-brightgreen" alt="count">
 </p>
 
 # 🚀 开源雷达
@@ -12,11 +12,11 @@
 
 ## 🔭 最近一期
 
-### [2026.06.03 — GitHub AI 热门项目 — 2026年6月3日](./2026-06/2026-06-03.md)
+### [2026.06.04 — GitHub AI 热门项目 - 2026-06-04](./2026-06/2026-06-04.md)
 
-💬 *金句：Agent 的 CLI 时代正在终结——当自主执行成为常态，你需要的不是终端，而是一个能随时拍停的方向盘。*
+过去 24 小时 GitHub Trending 中 star 增长最快的 AI/LLM 项目精选。
 
-<p align="right"><a href="./2026-06/2026-06-03.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-04.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -45,6 +45,7 @@
 
 | 日期 | 本周亮点 |
 |------|----------|
+| [06-03](./2026-06/2026-06-03.md) | GitHub AI 热门项目 — 2026年6月3日 |
 | [06-02](./2026-06/2026-06-02.md) | GitHub AI 热门项目 — 2026-06-02 |
 | [06-01](./2026-06/2026-06-01.md) | 字节 deer-flow 7 万星，Agent 框架混战升级 |
 | [05-31](./2026-05/2026-05-31.md) | Skills 生态爆发 · 记忆系统涌现 · MCP 成事实标准 |
