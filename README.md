@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:30_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/projects-19_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/projects-20_篇-brightgreen" alt="count">
 </p>
 
 # 🚀 开源雷达
@@ -12,11 +12,11 @@
 
 ## 🔭 最近一期
 
-### [2026.06.04 — GitHub AI 热门项目 - 2026-06-04](./2026-06/2026-06-04.md)
+### [2026.06.05 — GitHub AI 热门项目 - 2026年06月05日](./2026-06/2026-06-05.md)
 
-过去 24 小时 GitHub Trending 中 star 增长最快的 AI/LLM 项目精选。
+最近 7 天新创建的高星 AI 项目精选 | 数据来源：GitHub Search API
 
-<p align="right"><a href="./2026-06/2026-06-04.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-05.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -45,6 +45,7 @@
 
 | 日期 | 本周亮点 |
 |------|----------|
+| [06-04](./2026-06/2026-06-04.md) | GitHub AI 热门项目 - 2026-06-04 |
 | [06-03](./2026-06/2026-06-03.md) | GitHub AI 热门项目 — 2026年6月3日 |
 | [06-02](./2026-06/2026-06-02.md) | GitHub AI 热门项目 — 2026-06-02 |
 | [06-01](./2026-06/2026-06-01.md) | 字节 deer-flow 7 万星，Agent 框架混战升级 |
