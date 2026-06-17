@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:30_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/projects-31_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/projects-32_篇-brightgreen" alt="count">
 </p>
 
 # 🚀 开源雷达
@@ -12,11 +12,11 @@
 
 ## 🔭 最近一期
 
-### [2026.06.16 — GitHub AI 开源雷达 — 2026年6月16日](./2026-06/2026-06-16.md)
+### [2026.06.17 — GitHub AI 热门项目 - 2026年06月17日](./2026-06/2026-06-17.md)
 
-过去一周（6.10–6.16）AI 开源领域由「Agent 安全」和「懒人哲学」双线主导。NVIDIA 亲自下场做 Agent 安全检查，而一个 4 天狂揽 1.6 万星的 JS 项目用「懒」重新定义了 AI 编码。
+📊 数据来源：GitHub Trending (Daily) · 抓取时间：10:35 CST
 
-<p align="right"><a href="./2026-06/2026-06-16.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-06/2026-06-17.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -45,6 +45,7 @@
 
 | 日期 | 本周亮点 |
 |------|----------|
+| [06-16](./2026-06/2026-06-16.md) | GitHub AI 开源雷达 — 2026年6月16日 |
 | [06-15](./2026-06/2026-06-15.md) | GitHub AI 热门项目 - 2026-06-15 |
 | [06-14](./2026-06/2026-06-14.md) | GitHub AI 热门项目 - 2026年6月14日 |
 | [06-13](./2026-06/2026-06-13.md) | GitHub AI 热门项目 - 2026-06-13 |
