@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:30_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/projects-47_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/projects-48_篇-brightgreen" alt="count">
 </p>
 
 # 🚀 开源雷达
@@ -12,11 +12,11 @@
 
 ## 🔭 最近一期
 
-### [2026.07.04 — GitHub AI 热门项目 - 2026年7月4日](./2026-07/2026-07-04.md)
+### [2026.07.05 — GitHub AI 热门项目 - 2026-07-05](./2026-07/2026-07-05.md)
 
-本期主题：Agent 生态爆发 —— 性能优化、记忆系统、Token 压缩三箭齐发
+开源雷达 · 每日 AI 项目精选 | 数据来源: GitHub Search API
 
-<p align="right"><a href="./2026-07/2026-07-04.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-05.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -45,6 +45,7 @@
 
 | 日期 | 本周亮点 |
 |------|----------|
+| [07-04](./2026-07/2026-07-04.md) | GitHub AI 热门项目 - 2026年7月4日 |
 | [07-03](./2026-07/2026-07-03.md) | GitHub AI 热门项目 - 2026-07-03 |
 | [07-02](./2026-07/2026-07-02.md) | GitHub AI 热门项目 - 2026-07-02 |
 | [07-01](./2026-07/2026-07-01.md) | GitHub AI 热门项目 - 2026年07月01日 |
