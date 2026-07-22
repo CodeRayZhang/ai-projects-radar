@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:30_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/projects-64_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/projects-65_篇-brightgreen" alt="count">
 </p>
 
 # 🚀 开源雷达
@@ -12,11 +12,11 @@
 
 ## 🔭 最近一期
 
-### [2026.07.21 — GitHub AI 热门项目 - 2026-07-21](./2026-07/2026-07-21.md)
+### [2026.07.22 — GitHub AI 热门项目 - 2026-07-22](./2026-07/2026-07-22.md)
 
-筛选标准：近 7 天活跃 + 星标增速最快 | 数据来源：GitHub Search API
+过去一周内新创建/活跃的 AI 相关开源项目，按 ⭐ 排序，精选 Top 10。
 
-<p align="right"><a href="./2026-07/2026-07-21.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-07/2026-07-22.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -45,6 +45,7 @@
 
 | 日期 | 本周亮点 |
 |------|----------|
+| [07-21](./2026-07/2026-07-21.md) | GitHub AI 热门项目 - 2026-07-21 |
 | [07-20](./2026-07/2026-07-20.md) | GitHub AI 热门项目 - 2026年07月20日 |
 | [07-19](./2026-07/2026-07-19.md) | GitHub AI 热门项目 - 2026年7月19日 |
 | [07-18](./2026-07/2026-07-18.md) | GitHub AI 开源雷达 — 2026-07-18 |
