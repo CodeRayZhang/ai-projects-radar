@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:30_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/projects-114_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/projects-115_篇-brightgreen" alt="count">
 </p>
 
 # 🚀 开源雷达
@@ -12,11 +12,11 @@
 
 ## 🔭 最近一期
 
-### [2026.09.12 — GitHub AI 热门项目 - 2026-09-12](./2026-09/2026-09-12.md)
+### [2026.09.13 — GitHub AI 热门项目 - 2026-09-13](./2026-09/2026-09-13.md)
 
-数据来源：GitHub Search API（近 7 天创建/活跃，按 ⭐ 排序）。github.com/trending 本机无法直连（TCP 超时），已按预案改用 API 方案。
+数据来源：GitHub Search API（关键词 ai/llm/machine-learning/deep-learning/agent/rag，近 7 天创建，按 star 排序）
 
-<p align="right"><a href="./2026-09/2026-09-12.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-13.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -45,6 +45,7 @@
 
 | 日期 | 本周亮点 |
 |------|----------|
+| [09-12](./2026-09/2026-09-12.md) | GitHub AI 热门项目 - 2026-09-12 |
 | [09-11](./2026-09/2026-09-11.md) | GitHub AI 热门项目 - 2026-09-11 |
 | [09-10](./2026-09/2026-09-10.md) | GitHub AI 热门项目 - 2026-09-10 |
 | [09-09](./2026-09/2026-09-09.md) | GitHub AI 热门项目 - 2026-09-09 |
