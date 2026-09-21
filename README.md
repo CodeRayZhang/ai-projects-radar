@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:30_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/projects-122_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/projects-123_篇-brightgreen" alt="count">
 </p>
 
 # 🚀 开源雷达
@@ -12,11 +12,11 @@
 
 ## 🔭 最近一期
 
-### [2026.09.20 — GitHub AI 热门项目 - 2026-09-20](./2026-09/2026-09-20.md)
+### [2026.09.21 — GitHub AI 热门项目](./2026-09/2026-09-21.md)
 
-数据来源：GitHub Trending (daily) + Search API（created:>7天）· 排序：近 24h star 增长优先，辅以本周新发布高 star 项目
+数据来源：GitHub Search API（`topic:ai/llm/agent/mcp`，`created:>2026-09-14`，按 stars 排序）；已筛选最近 7 天内创建、star 增长最快的项目并去重。
 
-<p align="right"><a href="./2026-09/2026-09-20.md"><b>→ 阅读全文</b></a></p>
+<p align="right"><a href="./2026-09/2026-09-21.md"><b>→ 阅读全文</b></a></p>
 
 ---
 
@@ -45,6 +45,7 @@
 
 | 日期 | 本周亮点 |
 |------|----------|
+| [09-20](./2026-09/2026-09-20.md) | GitHub AI 热门项目 - 2026-09-20 |
 | [09-19](./2026-09/2026-09-19.md) | GitHub AI 热门项目 - 2026-09-19 |
 | [09-18](./2026-09/2026-09-18.md) | GitHub AI 热门项目 - 2026-09-18 |
 | [09-17](./2026-09/2026-09-17.md) | GitHub AI 热门项目 |
