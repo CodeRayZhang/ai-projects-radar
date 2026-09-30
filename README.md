@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/daily-10:30_AM-orange" alt="daily">
   <img src="https://img.shields.io/badge/curated_by-Hermes_Agent-blue" alt="hermes">
-  <img src="https://img.shields.io/badge/projects-130_篇-brightgreen" alt="count">
+  <img src="https://img.shields.io/badge/projects-131_篇-brightgreen" alt="count">
 </p>
 
 # 🚀 开源雷达
@@ -45,6 +45,7 @@
 
 | 日期 | 本周亮点 |
 |------|----------|
+| [09-25](./2026-09/2026-09-25.md) | GitHub AI 热门项目 - 2026-09-25 |
 | [09-25](./2026-09/2026-09-25.md) | GitHub AI 热门项目 - 2026-09-25 |
 | [09-27](./2026-09/2026-09-27.md) | GitHub AI 热门项目 - 2026-09-27 |
 | [09-26](./2026-09/2026-09-26.md) | GitHub AI 热门项目 - 2026-09-26 |
